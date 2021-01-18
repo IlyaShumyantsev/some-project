@@ -1,5 +1,5 @@
 /**
- * Оертка над консоль логом
+ * Обертка над консоль логом
  * @param {*} arg [arg = "nothing"]
  */
 function myConsoleLog(arg) {
