@@ -11,5 +11,13 @@
   "dependencies": {
     "eslint-config-airbnb": "^18.2.1",
     "jsdoc": "^3.6.6"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IlyaShumyantsev/some-project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IlyaShumyantsev/some-project/issues"
+  },
+  "homepage": "https://github.com/IlyaShumyantsev/some-project#readme"
 }
